@@ -6,3 +6,4 @@ My Backlog
 1.5 As a user I want to configure view of my system
 1.6 As an Adminstrator i want to generate reports
 1.7 A new user story is here
+1.8 As a user I want to view complete details
